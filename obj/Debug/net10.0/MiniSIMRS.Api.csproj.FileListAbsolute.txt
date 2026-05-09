@@ -10,7 +10,6 @@ C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\FluentValidation.dll
 C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\FluentValidation.AspNetCore.dll
 C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\Humanizer.dll
-C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\Microsoft.Build.Framework.dll
 C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
 C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -152,3 +151,12 @@ C:\Project-CSharp\MiniSIMRS.Api\obj\Debug\net10.0\refint\MiniSIMRS.Api.dll
 C:\Project-CSharp\MiniSIMRS.Api\obj\Debug\net10.0\MiniSIMRS.Api.pdb
 C:\Project-CSharp\MiniSIMRS.Api\obj\Debug\net10.0\MiniSIMRS.Api.genruntimeconfig.cache
 C:\Project-CSharp\MiniSIMRS.Api\obj\Debug\net10.0\ref\MiniSIMRS.Api.dll
+C:\Project-CSharp\MiniSIMRS.Api\obj\Debug\net10.0\MiniSIMRS.Api.sourcelink.json
+C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Project-CSharp\MiniSIMRS.Api\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll

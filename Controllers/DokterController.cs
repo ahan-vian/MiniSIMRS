@@ -1,9 +1,11 @@
 using System.Security.Cryptography.X509Certificates;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using MiniSIMRS.DTOs;
 using MiniSIMRS.Services;
 
-namespace MiniSIMRS.Controllers;
+namespace MiniSIMRS.Controllers;    
+[Authorize]
 [ApiController]
 [Route("api/[controller]")]
 public class DokterController : ControllerBase
